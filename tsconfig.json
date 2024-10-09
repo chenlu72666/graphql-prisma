@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    /* Modules */
+    "module": "NodeNext",
+    "skipLibCheck": true
+  }
+}
